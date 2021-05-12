@@ -6,7 +6,7 @@ export default {
     text: 'rebeccapurple',
     background: 'hotpink',
     tint: tintColorLight,
-    tabIconDefault: '#peachpuff',
+    tabIconDefault: 'peachpuff',
     tabIconSelected: tintColorLight,
   },
   dark: {
